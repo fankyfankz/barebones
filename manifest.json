@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Bare Bones Texture Pack Plus",
+        "description": "Bare Bones 26.51 with PBR and Raytracing",
+        "uuid": "a2f4940d-2ad0-4193-9aea-757843e998f9",
+        "version": [
+            1,
+            4,
+            100
+        ],
+        "min_engine_version": [
+            1,
+            26,
+            50
+        ]
+    },
+    "metadata": {
+        "authors": [
+            "RobotPants",
+            "fankyfankz"
+        ]
+    },
+    "modules": [
+        {
+            "description": "Bare Bones Texture Pack Plus",
+            "type": "resources",
+            "uuid": "b32eb6f9-bd8b-4152-801e-86c5da82e318",
+            "version": [
+                1,
+                4,
+                100
+            ]
+        }
+    ],
+    "capabilities": [
+        "raytraced",
+        "pbr"
+    ]
+}
