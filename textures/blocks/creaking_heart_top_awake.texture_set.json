@@ -1,0 +1,8 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "creaking_heart_top_awake",
+    "metalness_emissive_roughness": "creaking_heart_top_awake_mer",
+    "normal": "creaking_heart_top_awake_normal"
+  }
+}
